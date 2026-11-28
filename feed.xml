@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market Briefing (Audio)</title>
+    <link>https://mortagonus.github.io/briefing-podcast/</link>
+    <atom:link href="https://mortagonus.github.io/briefing-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Eric&#x27;s daily Market Briefing as a two-host audio deep dive: the session, movers, earnings, research and sections. Private feed.</description>
+    <lastBuildDate>Sat, 28 Nov 2026 02:27:14 +0000</lastBuildDate>
+    <itunes:author>Eric Areiter</itunes:author>
+    <itunes:summary>Eric&#x27;s daily Market Briefing as a two-host audio deep dive: the session, movers, earnings, research and sections. Private feed.</itunes:summary>
+    <itunes:image href="https://mortagonus.github.io/briefing-podcast/cover.jpg"/>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <itunes:owner><itunes:name>Eric Areiter</itunes:name></itunes:owner>
+    <item>
+      <title>Market Briefing — Fri Nov 27, 2026</title>
+      <description>Audio edition of the 2026.11.27 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-27.m4a" length="30907806" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:40:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Market Briefing — Thu Nov 26, 2026</title>
+      <description>Audio edition of the 2026.11.26 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-26.m4a" length="26867419" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:36:05</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Market Briefing — Wed Nov 25, 2026</title>
+      <description>Audio edition of the 2026.11.25 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-25.m4a" length="20942361" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:27:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Market Briefing — Tue Nov 24, 2026</title>
+      <description>Audio edition of the 2026.11.24 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-24.m4a" length="26205403" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:35:08</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Market Briefing — Mon Nov 23, 2026</title>
+      <description>Audio edition of the 2026.11.23 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-23.m4a" length="20482817" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:26:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Market Briefing — Sun Nov 22, 2026</title>
+      <description>Audio edition of the 2026.11.22 Market Briefing.</description>
+      <enclosure url="https://mortagonus.github.io/briefing-podcast/episodes/2026-11-22.m4a" length="19866919" type="audio/x-m4a"/>
+      <guid isPermaLink="false">market-briefing-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 16:30:00 -0800</pubDate>
+      <itunes:duration>0:25:56</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
